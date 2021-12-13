@@ -1,0 +1,81 @@
+body{
+    background: #0F2027;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #2C5364, #203A43, #0F2027);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #2C5364, #203A43, #0F2027); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+
+header{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    color: white;
+}
+
+
+.PoliticaCalidad{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+.NuestraPolitica{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+.Redaccion{
+    color: white;
+    font-family: 'Roboto Slab', serif;
+}
+
+p{
+    padding: 0.7%;
+}
+
+img{
+    width: 100%;
+}
+
+footer{
+    background-color: lightskyblue;
+    box-sizing: content-box;
+    color: white;
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+}
+
+.buttons{
+    display: flex;
+    justify-content: space-around;
+}
+
+.buttons a {
+    text-decoration: none;
+    font-size: 28px;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    background: grey;
+    color: white;
+    border-radius: 50%;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+    transition: all .4s ease-in-out;
+}
+
+.buttons a:hover {
+    transform: scale(1.2);
+}
+
+@media (min-width:320px) {
+    footer{
+        padding: 2%;
+    }
+}
+
+@media (min-width:768px) {
+    footer{
+        padding: 1%;
+    }
+}

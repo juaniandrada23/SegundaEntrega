@@ -1,0 +1,61 @@
+[{
+    "imagen":"./imagenes/carburador.jpg",
+    "producto":"Carburador",
+    "precio":"PRECIO = $2000",
+    "modelo":"MODELO = 89946000AM",
+    "espesor":"ESPESOR = 3CM",
+    "montaje":"MONTAJE = Delantero",
+    "numerodepieza":"NUMERO DE PIEZA = 1076512D"
+}
+
+,
+{
+    "imagen":"./imagenes/radiador.jpg",
+    "producto":"Radiador",
+    "precio":"PRECIO = $12000",
+    "modelo":"MODELO = 24347000AM",
+    "espesor":"ESPESOR = 5CM",
+    "montaje":"MONTAJE = Delantero",
+    "numerodepieza":"NUMERO DE PIEZA = 6745212A"
+},
+
+{
+    "imagen":"./imagenes/bomba.jpg",
+    "producto":"Bomba de aceite",
+    "precio":"PRECIO = $5000",
+    "modelo":"MODELO = 249143560BM",
+    "espesor":"ESPESOR = 10CM",
+    "montaje":"MONTAJE = Delantero",
+    "numerodepieza":"NUMERO DE PIEZA = 2562512W"
+},
+
+{
+    "imagen":"./imagenes/modulo.jpg",
+    "producto":"Modelo de inyección",
+    "precio":"PRECIO = $15000",
+    "modelo":"MODELO = 143560BM",
+    "espesor":"ESPESOR = 20CM",
+    "montaje":"MONTAJE = Delantero",
+    "numerodepieza":"NUMERO DE PIEZA = 8752512A"
+},
+
+{
+    "imagen":"./imagenes/condensador.jpg",
+    "producto":"Condensador",
+    "precio":"PRECIO = $2500",
+    "modelo":"MODELO = BM203947523",
+    "espesor":"ESPESOR = 15CM",
+    "montaje":"MONTAJE = Delantero",
+    "numerodepieza":"NUMERO DE PIEZA = 5838372M"
+},
+
+{
+    "imagen":"./imagenes/turbocom.jpg",
+    "producto":"Turbocompresor",
+    "precio":"PRECIO = $130000",
+    "modelo":"MODELO = 644521560AM",
+    "espesor":"ESPESOR = 40CM",
+    "montaje":"MONTAJE = Delantero",
+    "numerodepieza":"NUMERO DE PIEZA = 1235512G"
+}
+]
